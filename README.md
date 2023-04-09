@@ -1,2 +1,7 @@
 # Estadistica-Computacional
-Acá esta la codificacion de los ejercicios del Curso de estadística computacional con Python
+OBJETIVOS:
+
+◾Aprender cuándo utilizar Programación Dinámica y sus beneficios.
+◾Entender la diferencia entre programas deterministas y estocásticos.
+◾Aprender a utilizar Programación Estocástica.
+◾Aprender a crear simulaciones computacionales válidas.
